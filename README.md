@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**kaminari27/kaminari27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kaminari27/kaminari27** is a ✨ _special_ ✨ repossitory because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
